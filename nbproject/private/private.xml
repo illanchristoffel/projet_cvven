@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/projet_cvven/application/views/formulaire/reservation.php</file>
+            <file>file:/var/www/html/projet_cvven/application/views/formulaire/connexion.php</file>
+            <file>file:/var/www/html/projet_cvven/application/views/formulaire/successReservation.php</file>
+            <file>file:/var/www/html/projet_cvven/application/models/Reservation_modele.php</file>
+            <file>file:/var/www/html/projet_cvven/application/views/formulaire/profil.php</file>
+            <file>file:/var/www/html/projet_cvven/application/controllers/Formulaire.php</file>
+        </group>
+    </open-files>
+</project-private>
